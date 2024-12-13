@@ -1,10 +1,10 @@
 ### Modify the code below ###
 
 #Ask the user for their name!
-Name = ''
+Name = input('What is your name? ')
 
 #Ask the user for their age!
-Age = ''
+Age = input('how old are you? ')
 
 print(Name)
 print(Age)
