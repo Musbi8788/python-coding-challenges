@@ -1,9 +1,9 @@
 ### Modify the code below ###
 
-myInteger = null
+myInteger = 9894444
 
-myFloat = null
+myFloat = 7.09666
 
-myComplex = null
+myComplex = 4, 7m
 
 ### Modify the code above ###
