@@ -1,1 +1,1 @@
-print('firstname', 'sname', sep='*', end='*') #change this line
+print('musbi', 'jawo', sep='*', end='*') #change this line
