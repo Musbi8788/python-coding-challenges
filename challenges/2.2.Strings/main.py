@@ -2,7 +2,7 @@
 
 myName = "Musbi"
 
-myAge = age
+myAge = "20"
 
 favoriteActivity = "Programming"
 
