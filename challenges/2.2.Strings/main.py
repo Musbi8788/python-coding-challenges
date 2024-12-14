@@ -1,11 +1,11 @@
 ### Modify the code below ###
 
-myName = null
+myName = "Musbi"
 
-myAge = null
+myAge = age
 
-favoriteActivity = null
+favoriteActivity = "Programming"
 
-mySentence = null 
+mySentence = "The world is changing with the programmers" 
 
 ### Modify the code above ###
