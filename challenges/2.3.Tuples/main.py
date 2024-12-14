@@ -1,11 +1,11 @@
 ### Modify the code below ###
 
-twoTuple = null
+twoTuple = ("red", "blue") , ("red", "blue")
 
-threeTuple = null
+threeTuple = ("rat","ant","cat")
 
-fiveTuple = null
+fiveTuple = ("school","university","hotel","market","farm")
 
-tenTuple = null 
+tenTuple = ("school","university","hotel","market","farm", "") 
 
 ### Modify the code above ###
