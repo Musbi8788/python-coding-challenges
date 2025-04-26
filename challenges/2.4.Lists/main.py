@@ -1,8 +1,8 @@
 ### Modify the code below ###
 
-mediumList = ['musbi', 'omar', 'lamin',]
+mediumList = [  33, 23, 55, 75, 22,]
 shortList = [2, 3,]
 
-longList = [2, 3, 4, 5, 6, 6, 7, 33, 223, 43, 556, ']
+longList = mediumList + shortList
 
 ### Modify the code above ###
