@@ -14,6 +14,8 @@ a
 >>> number = 3.14
 >>> print(number)
 3.14
+>>> musbi = 'coder'
+coder
 ```
 
 **_Instructions:_**  
