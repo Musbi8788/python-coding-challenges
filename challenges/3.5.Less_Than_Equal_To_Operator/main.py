@@ -1,7 +1,7 @@
 def less_or_equal(value):
-    if value :  # Change this line
+    if value <= 25:  # Change this line
         return "25 or less"
-    elif value :  # Change this line
+    elif value <= 75:  # Change this line
         return "75 or less"
     else:
         return "More than 75"
