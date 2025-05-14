@@ -1,5 +1,5 @@
 def strictly_less_than(value):
-    if value :  # Change this line
+    if value < 10:  # Change this line
         return "Less than 10"
     elif value :  # Change this line
         return "Less than 100"
