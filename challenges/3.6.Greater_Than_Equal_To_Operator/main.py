@@ -1,7 +1,7 @@
 def greater_or_equal(value):
-    if value :  # Change this line
+    if value >= 50:  # Change this line
         return "50 or more"
-    elif value :  # Change this line
+    elif value >=20:  # Change this line
         return "20 or more"
     else:
         return "Less than 20"
