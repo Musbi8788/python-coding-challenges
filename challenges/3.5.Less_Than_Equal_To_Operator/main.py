@@ -7,4 +7,4 @@ def less_or_equal(value):
         return "More than 75"
 
 # Change the value 1 below to experiment with different values
-print(less_or_equal(1))
+print(less_or_equal(35))
