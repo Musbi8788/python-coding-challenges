@@ -1,4 +1,4 @@
 def boolean_not(value):
-    pass  # replace the pass statement with the correct code
+    if value not False:
 
 print(boolean_not(True))
