@@ -1,5 +1,5 @@
 def boolean_and(value):
-    if value >= 50:  # Complete the if clause on this line
+    if value = 50 and value >= 100:  # Complete the if clause on this line
         return "Pass"
     else:
         return "Try Again"
