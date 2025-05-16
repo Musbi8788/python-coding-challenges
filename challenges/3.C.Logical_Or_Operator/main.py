@@ -1,5 +1,5 @@
 def boolean_or(value):
-    if value:  # Complete the if clause on this line
+    if value == 75 or value == 100:  # Complete the if clause on this line
         return "Try Again"
     else:
         return "Pass"
