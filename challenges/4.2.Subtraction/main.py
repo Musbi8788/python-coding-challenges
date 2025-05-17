@@ -1,6 +1,6 @@
 ### Modify the code below ###
 
-total = 20 - 0
+total = 20 - 10
 
 ### Modify the code above ###
 
