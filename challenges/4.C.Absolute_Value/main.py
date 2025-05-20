@@ -4,4 +4,4 @@ absolute_value = 42
 
 ### Modify the code above ###
 
-print(absolute_value)
+print(abs(absolute_value))
