@@ -2,7 +2,7 @@ numbers = [8, 2, 4, 3, 6, 5, 9, 1]
 
 ### Modify the code below ###
 
-highest = numbers
+highest = max(numbers)
 
 ### Modify the code above ###
 
