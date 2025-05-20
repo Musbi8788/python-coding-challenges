@@ -1,7 +1,7 @@
 ### Modify the code below ###
 
-absolute_value = 42
-
+absolute_value = -42
+absolute_value = abs(absolute_value)
 ### Modify the code above ###
 
-print(abs(absolute_value))
+print(absolute_value)
