@@ -1,4 +1,4 @@
-value = 'some' #modify this line
+value = 'y' #modify this line
 
 if value == 'Y' or value == 'y':
     print('yes')
