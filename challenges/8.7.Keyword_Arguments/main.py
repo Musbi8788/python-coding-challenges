@@ -3,7 +3,7 @@ def keyword_argument_example(your_age, **kwargs):
 
 ### Write your code below this line ###
 
-about_me = "Replace this string with the correct function call."
+about_me = keyword_argument_example(21, **{'name': 'musbi', 'surname': 'jawo'}
 
 ### Write your code above this line ###
 
