@@ -1,35 +1,55 @@
-FreeCodeCamp Python Curriculum
-=============
+# Python Coding Challenges
 
-View live: https://freecodecamp.github.io/python-coding-challenges
+This repository contains solutions to Python coding challenges from [freeCodeCamp](https://www.freecodecamp.org/). These problems helped reinforce core Python concepts like loops, conditionals, functions, strings, and lists.
 
-To run locally:
-1. Fork this repo
-2. Run `git clone [your-fork-url]`
-3. Run `npm install`
-4. Run `npm run start`
+## Challenges Covered
 
-Adding a new challenge or fixing an existing one?
+- Arithmetic Formatter
+- Time Calculator
+- Budget App
+- Polygon Area Calculator
+- Probability Calculator
 
-- Generating challenge ID:
-  1. Open your terminal
-  2. run `mongo`
-  3. run `ObjectId()`
-  4. copy string and paste into lesson_settings.json
+## How to Run
 
-- Building challenges.json file:
-  1. Open your terminal
-  2. Navigate to project directory
-  3. run `node generate-challenge-json.js`
-  4. if no errors are thrown you're good to commit and open a pr
+```bash
+python filename.py
+Author
+Musbi Jawo
+🔗 GitHub | 📧 musbi@gmail.com | 📍 Banjul, The Gambia
 
-- Opening a PR
-  1. Include a reference to the issue
-  2. If its a new challenge, mention the chapter its being added to
-  3. continue being awesome and helping us create this curriculum!
+csharp
+Copy
+Edit
 
+#### 2. **Organize Your Files**
+Create folders like this:
 
-Maintaining your Fork:
-  1. `git remote add upstream https://github.com/freeCodeCamp/python-coding-challenges.git`
-  2. `git checkout master`
-  3. `git pull upstream`
+python-coding-challenges/
+├── arithmetic-formatter/
+│ └── main.py
+├── time-calculator/
+│ └── main.py
+...
+
+python
+Copy
+Edit
+
+This will make it easier to maintain and scale the repo.
+
+#### 3. **Add Comments or Docstrings**
+For example:
+
+```python
+def arithmetic_arranger(problems, show_answers=False):
+    """
+    Arranges arithmetic problems vertically and side-by-side.
+
+    Args:
+        problems (list): List of arithmetic problem strings.
+        show_answers (bool): Whether to show answers.
+
+    Returns:
+        str: Arranged string of arithmetic problems.
+    """
