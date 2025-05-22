@@ -3,7 +3,7 @@ def say_hello(greeting):
 
 ### Call the say_hello function below this line: ###
 
-result = "Replace this string with the correct function call."
+result = say_hello('Hello Musbi Developer')
 
 ### Call the say_hello function above this line: ###
 print(result)
