@@ -6,6 +6,7 @@ def favorite_python(member=None):
 ### the name of your favorite Monty Python member, and assign that function
 ### call to the variable named my_choice.
 
-my_choice = "Replace this string with the correct function call."
+my_choice = favorite_python(member='Django')
+print(my_choice)
 
 ### Call the function above this line.
